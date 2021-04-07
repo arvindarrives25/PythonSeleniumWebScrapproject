@@ -1,0 +1,11 @@
+
+2021-04-07 22:18:45,848 :INFO : TestWebScraping :Creating object of WebScrapPage class
+2021-04-07 22:18:45,848 :INFO : TestWebScraping :launching E-com site and searching for desired product
+2021-04-07 22:19:58,955 :INFO : TestWebScraping :Fetching data from site and saving into excel sheet
+2021-04-07 22:20:03,682 :INFO : TestWebScraping :Sending email with attached excel sheet(having scrapped data
+2021-04-07 22:20:08,151 :INFO : TestWebScraping :Logging in Receivers email
+2021-04-07 22:20:19,212 :INFO : TestWebScraping :Searching for email having attached excel sheet
+2021-04-07 22:21:17,435 :INFO : TestWebScraping :Checking if email is visible and expected email subject to actual email subject
+2021-04-07 22:21:17,435 :INFO : TestWebScraping :Scraped data(excel sheet) email attachment sent and received successfully, hence Test case passed
+2021-04-07 22:21:17,435 :INFO : TestWebScraping :Email received with attachment(with scrapped data, hence Test case passed
+2021-04-07 22:21:17,435 :INFO : TestWebScraping :Yay! our end to end workflow is working :)
