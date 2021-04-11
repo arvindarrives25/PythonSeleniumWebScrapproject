@@ -18,3 +18,4 @@ This is a selenium python framework(pytest) end to end to automate webscraping u
 ### Note
 * Please Go to config.py file under Configurations directory and supply your data
 * Open pyvenv.cfg file, edit Home and point to your loacal machine where python is up and running
+* Please feel free to contact me through email if any one need any help(selenium.python1985@gmail.com)
